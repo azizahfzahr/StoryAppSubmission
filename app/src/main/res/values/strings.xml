@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StoryAppSubmission</string>
+    <string name="Camera">Camera</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Upload">Upload</string>
+    <string name="Desc">Deskripsi</string>
+    <string name="post">Post</string>
+    <string name="logout">Logout</string>
+    <string name="upload_by">Upload by :</string>
+    <string name="deskripsi">Deskripsi :</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="nama">Nama</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+
+    <string name="retry">Coba lagi</string>
+    <string name="maps">maps</string>
+</resources>
